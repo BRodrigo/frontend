@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1544444446759' stop='1544444449328'>
+    <name>/Black List/Date Dado que o usuario acesse o Freight Quando o usuario clicar na Blacklist e no menu Date</name>
+    <title>/Black List/Date Dado que o usuario acesse o Freight Quando o usuario clicar na Blacklist e no menu Date</title>
+    <test-cases>
+        <test-case start='1544444446759' status='passed' stop='1544444449328'>
+            <name>Então devera visualizar o menu Date</name>
+            <title>Então devera visualizar o menu Date</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='384c4376-ecfd-4179-a778-5ad9bc047df4-attachment.png' type='image/png' size='57270'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

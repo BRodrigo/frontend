@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1543233262471' stop='1543233264707'>
+    <name>/Black List Dado que o usuario clique para criar um novo Time Quando o usuario informar dados do Time e clicar em Save</name>
+    <title>/Black List Dado que o usuario clique para criar um novo Time Quando o usuario informar dados do Time e clicar em Save</title>
+    <test-cases>
+        <test-case start='1543233262471' status='passed' stop='1543233264707'>
+            <name>Então devera visualizar o menu Blacklist Time</name>
+            <title>Então devera visualizar o menu Blacklist Time</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3688ce08-ef64-411f-b6e6-b56ebff98258-attachment.png' type='image/png' size='53854'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922092179' stop='1542922093712'>
+    <name>/Retira Facil/Bairros Dado que o usuario acesse o Retira Fácil e o menu do GFG Pickup-Cidades Quando o usuario informar o nome de um bairro e clicar em Buscar</name>
+    <title>/Retira Facil/Bairros Dado que o usuario acesse o Retira Fácil e o menu do GFG Pickup-Cidades Quando o usuario informar o nome de um bairro e clicar em Buscar</title>
+    <test-cases>
+        <test-case start='1542922092179' status='passed' stop='1542922093712'>
+            <name>Então devera retornar o bairro informada</name>
+            <title>Então devera retornar o bairro informada</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='554cad1a-f244-466e-817b-22dfc7250e1e-attachment.png' type='image/png' size='55577'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

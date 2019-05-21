@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922139950' stop='1542922141961'>
+    <name>/Warehouse Time Dado que o usuario clique para editar um Warehouse existente Quando o usuario informar o dados a ser atualizar e clicar em Save</name>
+    <title>/Warehouse Time Dado que o usuario clique para editar um Warehouse existente Quando o usuario informar o dados a ser atualizar e clicar em Save</title>
+    <test-cases>
+        <test-case start='1542922139950' status='passed' stop='1542922141961'>
+            <name>Então devera visualizar o Warehouse atualizado</name>
+            <title>Então devera visualizar o Warehouse atualizado</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e78d71ca-6cb5-4e44-9a5b-9797b784596b-attachment.png' type='image/png' size='112306'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

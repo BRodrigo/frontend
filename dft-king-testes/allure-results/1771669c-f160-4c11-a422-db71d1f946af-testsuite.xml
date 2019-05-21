@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922131284' stop='1542922133621'>
+    <name>/Home/Transfer Dado que o usuario queira excluir um Transfer Quando o usuario clicar para visualizar o Transfer e clicar em Delete</name>
+    <title>/Home/Transfer Dado que o usuario queira excluir um Transfer Quando o usuario clicar para visualizar o Transfer e clicar em Delete</title>
+    <test-cases>
+        <test-case start='1542922131284' status='passed' stop='1542922133621'>
+            <name>Então devera excluir o transfer</name>
+            <title>Então devera excluir o transfer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8ccccb3d-c5c5-41ab-ac27-b497c0e96561-attachment.png' type='image/png' size='91885'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

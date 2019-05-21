@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922108297' stop='1542922109822'>
+    <name>/Retira Facil/Endereco Dado que o usuario acesse o Retira Facil e o menu Endereços Quando o usuario informar um CEP no filtro e clicar em Buscar</name>
+    <title>/Retira Facil/Endereco Dado que o usuario acesse o Retira Facil e o menu Endereços Quando o usuario informar um CEP no filtro e clicar em Buscar</title>
+    <test-cases>
+        <test-case start='1542922108297' status='passed' stop='1542922109819'>
+            <name>Então devera retornar um endereço de acordo com o CEP informado no Filtro</name>
+            <title>Então devera retornar um endereço de acordo com o CEP informado no Filtro</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c92f064b-94f2-4e84-959c-88a9a3559a8c-attachment.png' type='image/png' size='57686'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

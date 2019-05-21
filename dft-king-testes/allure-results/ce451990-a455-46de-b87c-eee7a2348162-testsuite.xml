@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922126082' stop='1542922129350'>
+    <name>/Home/Transfer Dado que o usuario visualize o modal Quando o usuario clicar no último DeliveryType e informar um valor e save</name>
+    <title>/Home/Transfer Dado que o usuario visualize o modal Quando o usuario clicar no último DeliveryType e informar um valor e save</title>
+    <test-cases>
+        <test-case start='1542922126082' status='passed' stop='1542922129350'>
+            <name>Então devera visualizar uma mensagem de Transfer(s) successfully updated/created.</name>
+            <title>Então devera visualizar uma mensagem de Transfer(s) successfully updated/created.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bf045743-9282-4bf3-b469-33f6da87de3e-attachment.png' type='image/png' size='98582'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922086901' stop='1542922089635'>
+    <name>/Retira Facil/Bairros Dado que o usuario acesse o Freight Quando o usuario clicar no menu Retira Facil e no menu Cidades</name>
+    <title>/Retira Facil/Bairros Dado que o usuario acesse o Freight Quando o usuario clicar no menu Retira Facil e no menu Cidades</title>
+    <test-cases>
+        <test-case start='1542922086901' status='passed' stop='1542922089635'>
+            <name>Então devera visualizar o menu do GFG Pickup-Bairros</name>
+            <title>Então devera visualizar o menu do GFG Pickup-Bairros</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='07a49952-df75-498a-9e38-27a9378e4eb9-attachment.png' type='image/png' size='53847'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

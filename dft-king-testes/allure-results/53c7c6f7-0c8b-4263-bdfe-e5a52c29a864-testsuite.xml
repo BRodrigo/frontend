@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922134049' stop='1542922135503'>
+    <name>/Warehouse Time Dado que o usuario acesse o Freight Quando o usuario clicar no Freight-Price e no menu Warehouse Time</name>
+    <title>/Warehouse Time Dado que o usuario acesse o Freight Quando o usuario clicar no Freight-Price e no menu Warehouse Time</title>
+    <test-cases>
+        <test-case start='1542922134049' status='passed' stop='1542922135503'>
+            <name>Então devera visualizar o menu do Warehouse</name>
+            <title>Então devera visualizar o menu do Warehouse</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='632595ed-a611-4bef-84b3-06fa8d42bf74-attachment.png' type='image/png' size='107526'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

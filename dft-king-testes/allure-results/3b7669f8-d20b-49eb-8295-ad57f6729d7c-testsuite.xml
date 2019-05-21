@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922096715' stop='1542922098254'>
+    <name>/Retira Facil/Cidades Dado que o usuario acesse o Retira Fácil e o menu do GFG Pickup-Cidades Quando o usuario informar um o status Ativo no filtro e o Estado SP e clicar em Buscar</name>
+    <title>/Retira Facil/Cidades Dado que o usuario acesse o Retira Fácil e o menu do GFG Pickup-Cidades Quando o usuario informar um o status Ativo no filtro e o Estado SP e clicar em Buscar</title>
+    <test-cases>
+        <test-case start='1542922096715' status='passed' stop='1542922098254'>
+            <name>Então devera visualizar Cidades Ativas</name>
+            <title>Então devera visualizar Cidades Ativas</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f431831e-0693-4923-8809-4b2a3041f05a-attachment.png' type='image/png' size='70291'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

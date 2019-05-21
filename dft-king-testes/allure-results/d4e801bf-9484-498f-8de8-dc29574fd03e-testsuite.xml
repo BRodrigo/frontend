@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922081251' stop='1542922084204'>
+    <name>/Retira Facil/Bairros Dado que o usuario acesse o Freight Quando o usuario clicar no Freight-Price e no menu Market Place</name>
+    <title>/Retira Facil/Bairros Dado que o usuario acesse o Freight Quando o usuario clicar no Freight-Price e no menu Market Place</title>
+    <test-cases>
+        <test-case start='1542922081251' status='passed' stop='1542922084204'>
+            <name>Então devera visualizar o menu do GFG Manager Postcode</name>
+            <title>Então devera visualizar o menu do GFG Manager Postcode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a4c381ea-d443-4bd7-8dbe-69d1c1f75252-attachment.png' type='image/png' size='41618'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

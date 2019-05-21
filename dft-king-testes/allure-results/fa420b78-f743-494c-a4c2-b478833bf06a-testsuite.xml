@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922102937' stop='1542922104426'>
+    <name>/Retira Facil/Endereco Dado que o usuario acesse o Retira Facil e o menu Endereços Quando o usuario informar um o status Inativo no filtro e clicar em Buscar</name>
+    <title>/Retira Facil/Endereco Dado que o usuario acesse o Retira Facil e o menu Endereços Quando o usuario informar um o status Inativo no filtro e clicar em Buscar</title>
+    <test-cases>
+        <test-case start='1542922102937' status='passed' stop='1542922104425'>
+            <name>Então devera retornar dados de acordo com o status informado no Filtro</name>
+            <title>Então devera retornar dados de acordo com o status informado no Filtro</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c8649e31-9676-4382-92dc-db1a6d255da5-attachment.png' type='image/png' size='126586'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

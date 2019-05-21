@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922069160' stop='1542922071755'>
+    <name>/Warehouse Time Dado que o usuario acesse o Freight Quando o usuario clicar no Carriers &amp; Routes e no menu Carriers Management</name>
+    <title>/Warehouse Time Dado que o usuario acesse o Freight Quando o usuario clicar no Carriers &amp; Routes e no menu Carriers Management</title>
+    <test-cases>
+        <test-case start='1542922069160' status='passed' stop='1542922071755'>
+            <name>Então devera visualizar o menu do Carriers Management</name>
+            <title>Então devera visualizar o menu do Carriers Management</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='118f3db2-6ac6-4bbb-a4cd-4af37d8bb3fb-attachment.png' type='image/png' size='59304'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

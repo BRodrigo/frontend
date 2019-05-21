@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922115802' stop='1542922118040'>
+    <name>/Retira Facil/Bairros Dado que o usuario acesse o menu GFG Pickup-Parceiros Quando o usuario informar os dados do parceiro e clicar em Salvar</name>
+    <title>/Retira Facil/Bairros Dado que o usuario acesse o menu GFG Pickup-Parceiros Quando o usuario informar os dados do parceiro e clicar em Salvar</title>
+    <test-cases>
+        <test-case start='1542922115802' status='passed' stop='1542922118040'>
+            <name>Então devera visualizar o registro de um novo parceiro</name>
+            <title>Então devera visualizar o registro de um novo parceiro</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ee146da6-cb18-4ac4-84ad-edd567322191-attachment.png' type='image/png' size='60537'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

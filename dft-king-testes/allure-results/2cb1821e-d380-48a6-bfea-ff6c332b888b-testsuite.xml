@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922123757' stop='1542922126080'>
+    <name>/Home/Transfer Dado que o usuario clique para criar um novo Transfer Quando o usuario informar dados do Transfer e clicar em Save</name>
+    <title>/Home/Transfer Dado que o usuario clique para criar um novo Transfer Quando o usuario informar dados do Transfer e clicar em Save</title>
+    <test-cases>
+        <test-case start='1542922123757' status='passed' stop='1542922126080'>
+            <name>Então devera visualizar uma mensagem de Transfer(s) successfully updated/created.</name>
+            <title>Então devera visualizar uma mensagem de Transfer(s) successfully updated/created.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='889fd803-a974-4fb3-90f0-271f2b6bdff9-attachment.png' type='image/png' size='100483'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

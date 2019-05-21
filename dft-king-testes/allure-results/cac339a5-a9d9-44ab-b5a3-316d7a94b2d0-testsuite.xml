@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922122208' stop='1542922123756'>
+    <name>/Home/Transfer Dado que o usuario acesse o Freight e o menu Transfer Quando o usuario clicar no menu Transfer</name>
+    <title>/Home/Transfer Dado que o usuario acesse o Freight e o menu Transfer Quando o usuario clicar no menu Transfer</title>
+    <test-cases>
+        <test-case start='1542922122208' status='passed' stop='1542922123756'>
+            <name>Então devera visualizar uma listagem</name>
+            <title>Então devera visualizar uma listagem</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='eeb2834d-8a07-47db-8394-3d222684b274-attachment.png' type='image/png' size='91885'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542922085335' stop='1542922086442'>
+    <name>/Home Dado que o usuario informe login e senha Quando o usuario clicar em entrar</name>
+    <title>/Home Dado que o usuario informe login e senha Quando o usuario clicar em entrar</title>
+    <test-cases>
+        <test-case start='1542922085335' status='passed' stop='1542922086442'>
+            <name>Então devera visualizar a Home do Freight</name>
+            <title>Então devera visualizar a Home do Freight</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bd2e751c-36cb-43e9-852c-6e365712e89e-attachment.png' type='image/png' size='38620'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
